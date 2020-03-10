@@ -3,9 +3,9 @@ layout: post
 title:  "Fooling Network Interpretation in Image Classification"
 date:   2019-11-01 22:21:59 +00:00
 image: /images/fooling_teaser.png
-categories: research
+categories: conference
 author: "Akshayvarun Subramanya"
-authors: "<strong>Akshayvarun Subramanya</strong>, Vipin Pillai, Hamed Pirsiavash"
+authors: "<strong>Akshayvarun Subramanya<sup>*</sup></strong>, Vipin Pillai<sup>*</sup>, Hamed Pirsiavash &nbsp;&nbsp;&nbsp;<small><sup>*</sup>equal contribution</small>"
 venue: "International Conference on Computer vision (ICCV)"
 arxiv: https://arxiv.org/abs/1812.02843
 code: https://github.com/UMBCvision/fooling_network_interpretation
