@@ -141,6 +141,9 @@
               <br>
               <em>{{post.venue}}</em>
               <br>
+              {% if post.workshop%}
+              <a href="{{post.workshop}}">workshop version</a> /
+              {% endif %}
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
               {% endif %}

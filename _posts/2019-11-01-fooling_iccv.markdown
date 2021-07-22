@@ -9,6 +9,7 @@ authors: "<strong>Akshayvarun Subramanya<sup>*</sup></strong>, Vipin Pillai<sup>
 venue: "International Conference on Computer vision (ICCV)"
 arxiv: https://arxiv.org/abs/1812.02843
 code: https://github.com/UMBCvision/fooling_network_interpretation
+workshop: https://secml2018.github.io/towards_hiding.pdf
 ---
 
 We show that popular network interpretation algorithms do not necessarily show the correct reasoning for network's prediction, by using adversarial examples. Our work highlights the need for developing more robust interpretation tools to analyze a neural network's prediction.
