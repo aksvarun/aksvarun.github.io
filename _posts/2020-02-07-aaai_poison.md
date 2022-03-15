@@ -10,5 +10,5 @@ venue: "<strong>Oral</strong> presentation at 34th American Conference on Artifi
 arxiv: https://arxiv.org/abs/1910.00033
 ---
 
-We explore poisoning methods to introduce backdoors in neural networks. The trigger for the backdoor is revealed only during inference and hidden during the model training stage, which gives more capacity to the adversary.
+We explore poisoning methods to introduce backdoors in neural networks where the trigger remains hidden from the victim during training time. Hence, the poisoned examples cannot be identified upon manual inspection and the attacker can use the trigger to fool the model successfully at test time. 
 <!-- code: https://github.com/UMBCvision/fooling_network_interpretation -->
