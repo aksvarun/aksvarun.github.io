@@ -6,6 +6,7 @@ image: /images/backdoor_vit.png
 categories: conference
 author: "Akshayvarun Subramanya"
 authors: "  <strong>Akshayvarun Subramanya</strong>, Aniruddha Saha ,Soroush Abbasi Koohpayegani, Ajinkya Tejankar, Hamed Pirsiavash"
+venue: arxiv preprint
 arxiv: https://arxiv.org/abs/2206.08477
 ---
 
