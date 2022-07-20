@@ -6,6 +6,7 @@ image: /images/simple_few.png
 categories: conference
 author: "Akshayvarun Subramanya"
 authors: " <strong>Akshayvarun Subramanya</strong>, Hamed Pirsiavash"
+venue: arxiv preprint
 arxiv: https://arxiv.org/abs/2204.05432
 ---
 
