@@ -6,7 +6,7 @@ image: /images/simple_few.png
 categories: conference
 author: "Akshayvarun Subramanya"
 authors: " <strong>Akshayvarun Subramanya</strong>, Hamed Pirsiavash"
-arxiv: https://openreview.net/forum?id=__ObYt4753c
+arxiv: https://arxiv.org/abs/2204.05432
 ---
 
 We develop a simple transfer-learning based algorithm to achieve adversarial robustness in Few-shot Image Classification. Such an approach bypasses the need for meta-learning based robustness methods, hence providing  advantages such as efficiency, simplicity, scalability etc. We also show that our framework can be used to develop verifiably robust networks for few-shot settings.
